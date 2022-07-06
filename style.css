@@ -54,6 +54,7 @@ body {
     font-size: 16px;
     color: #8f8f8f;
     line-height: 20px;
+    letter-spacing: 1px;
 }
 
 .count-1 {
@@ -71,9 +72,10 @@ body {
 
 .half-width {
     width: 12%;
-    height: 80px;
+    height: 100px;
     margin-left: 20px;
     box-shadow: 5px 10px 30px gray;
+    margin-bottom: 35px;
 }
 
 .half-width h1 {
@@ -92,4 +94,16 @@ body {
 
 #extra-box h1 {
     color: orangered;
+}
+
+.extra-para {
+    text-align: center;
+}
+
+.line {
+    border: 1px solid;
+    color: #dadada;
+    margin-left: 300px;
+    margin-right: 280px;
+    margin-bottom: 40px;
 }
