@@ -114,6 +114,10 @@ body {
     text-align: center;
 }
 
+.donate-box-part {
+    margin-top: 40px;
+}
+
 .donate-box-card {
     display: flex;
     margin-left: 150px;
