@@ -25,4 +25,14 @@ body {
     font-size: 20px;
     color: white;
     margin-top: -35px;
+    margin-bottom: 40px;
+}
+
+.link-button {
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 5px;
 }
