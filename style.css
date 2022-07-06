@@ -186,3 +186,16 @@ body {
     margin-top: 50px;
     margin-left: 150px;
 }
+
+.get-update {
+    margin-top: 100px;
+}
+
+.update {
+    text-align: center;
+}
+
+.update-h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
