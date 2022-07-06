@@ -114,4 +114,43 @@ body {
     text-align: center;
 }
 
-.donate-plan {}
+.donate-box-card {
+    display: flex;
+    margin-left: 150px;
+}
+
+.donate-card1 {
+    background-color: #edf5f6;
+    width: 26%;
+    height: 274px;
+    margin-left: 20px;
+}
+
+.donate-card2 {
+    background-color: #ffeeee;
+    width: 26%;
+    height: 274px;
+    margin-left: 20px;
+}
+
+.donate-card3 {
+    background-color: #fff4d6;
+    width: 26%;
+    height: 274px;
+    margin-left: 20px;
+}
+
+.card-icon {
+    font-size: 50px;
+}
+
+.common-h2 {
+    padding-top: 40px;
+    margin-left: 20px;
+}
+
+.card-para {
+    font-size: 16px;
+    color: #8f8f8f;
+    margin-left: 20px;
+}
