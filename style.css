@@ -49,3 +49,47 @@ body {
 .donate-h1 {
     font-size: 40px;
 }
+
+.common-p {
+    font-size: 16px;
+    color: #8f8f8f;
+    line-height: 20px;
+}
+
+.count-1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+
+.box-1 {
+    display: flex;
+    margin-left: 290px;
+    margin-top: 50px;
+}
+
+.half-width {
+    width: 12%;
+    height: 80px;
+    margin-left: 20px;
+    box-shadow: 5px 10px 30px gray;
+}
+
+.half-width h1 {
+    font-size: 25px;
+    text-align: center;
+    padding-top: 15px;
+    color: #707070;
+    font-weight: 700;
+}
+
+#extra-box {
+    background-color: #ffeeee;
+    border: 2px orangered solid;
+    border-radius: 4px;
+}
+
+#extra-box h1 {
+    color: orangered;
+}
