@@ -237,3 +237,23 @@ input {
     width: 20%;
     font-size: 16px;
 }
+
+
+.footer-sec {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: black;
+}
+
+footer {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+
+.footer-h2 {
+    color: #ff6c3c;
+}
+
+.footer-h6 {
+    color: white;
+}
