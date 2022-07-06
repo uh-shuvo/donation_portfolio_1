@@ -158,3 +158,31 @@ body {
     color: #8f8f8f;
     margin-left: 20px;
 }
+
+
+.donate-world {
+    margin-top: 100px;
+}
+
+.donate-world-part {
+    display: flex;
+    margin-left: 150px;
+
+}
+
+.donate-img img {
+    margin-right: 700px;
+    width: 60%;
+    height: 370px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.donate-world-h2 {
+    font-size: 40px;
+}
+
+.blank {
+    margin-top: 50px;
+    margin-left: 150px;
+}
